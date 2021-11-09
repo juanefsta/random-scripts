@@ -1,3 +1,7 @@
+# Random Scripts 💻
+
+Used for a forgotten task, feel free to use them :)
+
 ## Scripts List
 
 🔗 [Dolar Blue Info](https://github.com/juanefsta/random-scripts/tree/main/dolar-blue)
